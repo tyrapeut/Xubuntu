@@ -1,0 +1,1 @@
+This is tyrapeuts first git project in ubuntu!
